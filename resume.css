@@ -1,0 +1,13 @@
+.mainDiv{
+  display: flex;
+  justify-content:space-between;
+}
+.leftDiv{
+  width: 30%;
+  background: violet;
+
+}
+.rightDiv{
+  width: 68%;
+  background: pink;
+}

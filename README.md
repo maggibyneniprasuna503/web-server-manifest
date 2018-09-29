@@ -1,2 +1,2 @@
-# web-server-manifest
-manifest and offline mode
+# web-server
+web server of dbindexed
